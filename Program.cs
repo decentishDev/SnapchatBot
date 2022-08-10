@@ -37,30 +37,23 @@ namespace SnapchatBot
                 }else if(i == 1){
                     y = 193;
                 }else if(i == 2){
-                    y = 261;
+                    y = 250;
                 }else if(i == 3){
-                    y = 319;
+                    y = 309;
                 }else if(i == 4){
-                    y = 378;
+                    y = 376;
                 }else if(i == 5){
-                    y = 434;
+                    y = 424;
                 }else if(i == 6){
-                    y = 493;
+                    y = 483;
                 }else if(i == 7){
-                    y = 550;
+                    y = 540;
                 }else if(i == 8){
-                    y = 609;
+                    y = 599;
                 }
 
                 Color pixelColor = GetColorAt(1295, y);
                 //Console.WriteLine(pixelColor);
-                float xMultiplier5 = 1295f / 1366f;
-                float yMultiplier5 = y / 768f;
-                new InputSimulator().Keyboard
-                    .Mouse
-                    .MoveMouseToPositionOnVirtualDesktop(xMultiplier5 * 65535, yMultiplier5 * 65535)
-                    .Sleep(1000);
-
                 //Color [A=255, R=243, G=70, B=95]
                 if(pixelColor.R < 80 && pixelColor.G < 80 && pixelColor.B < 80){
                     // Console.WriteLine(y);
@@ -79,7 +72,7 @@ namespace SnapchatBot
                         .Mouse
                         .MoveMouseToPositionOnVirtualDesktop(xMultiplier1 * 65535, yMultiplier1 * 65535)
                         .LeftButtonClick()
-                        .Sleep(4000)
+                        .Sleep(4500)
                         .MoveMouseToPositionOnVirtualDesktop(xMultiplier2 * 65535, yMultiplier2 * 65535)
                         .LeftButtonClick()
                         .Sleep(2000)
