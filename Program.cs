@@ -8,26 +8,26 @@ namespace SnapchatBot
     {
         static void Main(string[] args)
         {
-            //while(true){
-                // for(int y = 78; y < 700; y+=58){
-                //     Color pixelColor = GetColorAt(993, y);
-                //     //Color [A=255, R=243, G=70, B=95]
-                //     if(pixelColor.R > 238 && pixelColor.G > 60 && pixelColor.G < 80 && pixelColor.B > 85 && pixelColor.B < 105){
-                //         // Console.WriteLine(y);
-                //         // Console.WriteLine(pixelColor);
-                //         //483 425 368 310
-                //         //   58  57  58
-                //         float xMultiplier = 993f / 1366f;
-                //         float yMultiplier = y / 768f;
-                //         new InputSimulator().Keyboard
-                //             .Mouse
-                //             .MoveMouseToPositionOnVirtualDesktop(xMultiplier * 65535, yMultiplier * 65535)
-                //             .LeftButtonClick()
-                //             .Sleep(1000)
-                //             .LeftButtonClick()
-                //             .Sleep(2000);
-                //     }
-                // }
+            while(true){
+                for(int y = 78; y < 700; y+=58){
+                    Color pixelColor = GetColorAt(993, y);
+                    //Color [A=255, R=243, G=70, B=95]
+                    if(pixelColor.R > 238 && pixelColor.G > 60 && pixelColor.G < 80 && pixelColor.B > 85 && pixelColor.B < 105){
+                        // Console.WriteLine(y);
+                        // Console.WriteLine(pixelColor);
+                        //483 425 368 310
+                        //   58  57  58
+                        float xMultiplier = 993f / 1366f;
+                        float yMultiplier = y / 768f;
+                        new InputSimulator().Keyboard
+                            .Mouse
+                            .MoveMouseToPositionOnVirtualDesktop(xMultiplier * 65535, yMultiplier * 65535)
+                            .LeftButtonClick()
+                            .Sleep(1000)
+                            .LeftButtonClick()
+                            .Sleep(2000);
+                    }
+                }
 
                 for(int i = 0; i < 9; i++){
                 // 142 199 256 314 373 429 488 545 604
@@ -98,7 +98,7 @@ namespace SnapchatBot
                         .Sleep(2000);
                 }
                 }
-            //}
+            }
             // new InputSimulator().Keyboard
             //     // .ModifiedKeyStroke(VirtualKeyCode.CONTROL, VirtualKeyCode.VK_V);
             //     .Mouse
@@ -127,6 +127,6 @@ namespace SnapchatBot
 
 
 // this was sent by my automated snap program since i don't feel like using the app
-// 
+// view the painful code behind it at github.com/decentishdev/snapchatbot
 
 
