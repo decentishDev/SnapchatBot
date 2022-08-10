@@ -72,7 +72,7 @@ namespace SnapchatBot
                         .Mouse
                         .MoveMouseToPositionOnVirtualDesktop(xMultiplier1 * 65535, yMultiplier1 * 65535)
                         .LeftButtonClick()
-                        .Sleep(4500)
+                        .Sleep(6000)
                         .MoveMouseToPositionOnVirtualDesktop(xMultiplier2 * 65535, yMultiplier2 * 65535)
                         .LeftButtonClick()
                         .Sleep(2000)
