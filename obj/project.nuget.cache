@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lXxHaO0zSK7dDN+QqQiqIc99tXaXa5h7hkoHvcowMLw5Up4IME28O6PoHFRSsgk5YyTW3fneezzyzB2QaXeGQQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mlund\\OneDrive\\Desktop\\Matthew L\\Assorted projects\\SnapchatBot\\SnapchatBot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mlund\\.nuget\\packages\\h.inputsimulator\\1.3.0\\h.inputsimulator.1.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}

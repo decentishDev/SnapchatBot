@@ -1,0 +1,17 @@
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\bin\Debug\net6.0\SnapchatBot.exe
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\bin\Debug\net6.0\SnapchatBot.deps.json
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\bin\Debug\net6.0\SnapchatBot.runtimeconfig.json
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\bin\Debug\net6.0\SnapchatBot.dll
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\bin\Debug\net6.0\SnapchatBot.pdb
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.csproj.AssemblyReference.cache
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.AssemblyInfoInputs.cache
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.AssemblyInfo.cs
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.csproj.CoreCompileInputs.cache
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.dll
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\refint\SnapchatBot.dll
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.pdb
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.genruntimeconfig.cache
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\ref\SnapchatBot.dll
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\bin\Debug\net6.0\H.InputSimulator.dll
+C:\Users\mlund\OneDrive\Desktop\Matthew L\Assorted projects\SnapchatBot\obj\Debug\net6.0\SnapchatBot.csproj.CopyComplete
